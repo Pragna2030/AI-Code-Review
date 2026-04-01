@@ -26,11 +26,11 @@ An AI-powered code review system built using Spring Boot that analyzes code for 
 
 ### Frontend
 
-* (Add your frontend tech: React / Angular / HTML-CSS-JS)
+* frontend tech: HTML-CSS-JS
 
 ### AI Integration
 
-* (Mention API used: OpenAI / custom ML model)
+*  API used: OpenAI 
 
 ### Database
 
